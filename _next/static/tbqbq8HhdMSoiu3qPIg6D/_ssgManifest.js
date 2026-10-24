@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[locale]","\u002F[locale]\u002Flegal\u002F[doc]","\u002F[locale]\u002Fmarka","\u002F[locale]\u002Fopengraph-image"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /pl/welcome
+Disallow: /pl/strefa-klienta
+Disallow: /en/welcome
+Disallow: /en/strefa-klienta
+
+Sitemap: https://loomstudio.pl/sitemap.xml

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://loomstudio.pl/pl</loc>
+<xhtml:link rel="alternate" hreflang="pl" href="https://loomstudio.pl/pl" />
+<xhtml:link rel="alternate" hreflang="en" href="https://loomstudio.pl/en" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://loomstudio.pl/pl" />
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://loomstudio.pl/en</loc>
+<xhtml:link rel="alternate" hreflang="pl" href="https://loomstudio.pl/pl" />
+<xhtml:link rel="alternate" hreflang="en" href="https://loomstudio.pl/en" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://loomstudio.pl/pl" />
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://loomstudio.pl/pl/marka</loc>
+<xhtml:link rel="alternate" hreflang="pl" href="https://loomstudio.pl/pl/marka" />
+<xhtml:link rel="alternate" hreflang="en" href="https://loomstudio.pl/en/marka" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://loomstudio.pl/pl/marka" />
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://loomstudio.pl/en/marka</loc>
+<xhtml:link rel="alternate" hreflang="pl" href="https://loomstudio.pl/pl/marka" />
+<xhtml:link rel="alternate" hreflang="en" href="https://loomstudio.pl/en/marka" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://loomstudio.pl/pl/marka" />
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://loomstudio.pl/pl/legal/terms</loc>
+<xhtml:link rel="alternate" hreflang="pl" href="https://loomstudio.pl/pl/legal/terms" />
+<xhtml:link rel="alternate" hreflang="en" href="https://loomstudio.pl/en/legal/terms" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://loomstudio.pl/pl/legal/terms" />
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://loomstudio.pl/en/legal/terms</loc>
+<xhtml:link rel="alternate" hreflang="pl" href="https://loomstudio.pl/pl/legal/terms" />
+<xhtml:link rel="alternate" hreflang="en" href="https://loomstudio.pl/en/legal/terms" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://loomstudio.pl/pl/legal/terms" />
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://loomstudio.pl/pl/legal/privacy</loc>
+<xhtml:link rel="alternate" hreflang="pl" href="https://loomstudio.pl/pl/legal/privacy" />
+<xhtml:link rel="alternate" hreflang="en" href="https://loomstudio.pl/en/legal/privacy" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://loomstudio.pl/pl/legal/privacy" />
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://loomstudio.pl/en/legal/privacy</loc>
+<xhtml:link rel="alternate" hreflang="pl" href="https://loomstudio.pl/pl/legal/privacy" />
+<xhtml:link rel="alternate" hreflang="en" href="https://loomstudio.pl/en/legal/privacy" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://loomstudio.pl/pl/legal/privacy" />
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://loomstudio.pl/pl/legal/payments</loc>
+<xhtml:link rel="alternate" hreflang="pl" href="https://loomstudio.pl/pl/legal/payments" />
+<xhtml:link rel="alternate" hreflang="en" href="https://loomstudio.pl/en/legal/payments" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://loomstudio.pl/pl/legal/payments" />
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://loomstudio.pl/en/legal/payments</loc>
+<xhtml:link rel="alternate" hreflang="pl" href="https://loomstudio.pl/pl/legal/payments" />
+<xhtml:link rel="alternate" hreflang="en" href="https://loomstudio.pl/en/legal/payments" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://loomstudio.pl/pl/legal/payments" />
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+</urlset>
